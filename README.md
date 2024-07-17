@@ -1,5 +1,6 @@
 # CustomerLoyalityProgram
 setup the Database:
+
 -create database and tables with respective column names
 setup java Project in your favourite IDE(I have used Eclipse)
 Install MySQL
